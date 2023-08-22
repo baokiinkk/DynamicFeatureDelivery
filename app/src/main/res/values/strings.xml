@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WidgetDemo</string>
+    <string name="title_dynamicfeature">Module Title</string>
+    <string name="title_ontime">On time</string>
+</resources>
